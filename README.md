@@ -8,3 +8,5 @@ https://jsonplaceholder.typicode.com/
     - integration layer between react and redux
         - helps us make network requests
             - middleware to help us make requests in a redux application
+
+3. npm i lodash
